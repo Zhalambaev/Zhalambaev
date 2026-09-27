@@ -63,24 +63,6 @@ REST API на Django REST Framework для работы со страницам�
 - сервисы интернет-платежей;
 - внутренние системы автоматизации.
 
-## Background
-
-До перехода в IT работал инженером-программистом ЧПУ и руководителем производственного участка в машиностроении.
-
-Разрабатывал управляющие программы, работал с CAM-системами, автоматизацией производства и оптимизацией технологических процессов. Руководил командой из 12 сотрудников.
-
-## Currently
-
-Ищу позицию **Python Backend Developer** в продуктовой команде.
-
-Интересующие направления:
-- Python Backend
-- Django / FastAPI
-- API integrations
-- PostgreSQL
-- AI / LLM integrations
-- RAG applications
-
 ## Contacts
 
 - Telegram: [@zhalambaevdenis](https://t.me/zhalambaevdenis)
