@@ -26,7 +26,7 @@ Pytest
 Docker, Docker Compose, Linux, Nginx, Gunicorn, Git
 
 **AI / LLM:**  
-RAG, LangChain, ChromaDB, embeddings, GigaChat API
+RAG, LangChain, ChromaDB, embeddings
 
 ## Public Projects
 
