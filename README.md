@@ -6,7 +6,7 @@ Python-разработчик с фокусом на backend-разработк�
 
 Работаю с Django, DRF, FastAPI, PostgreSQL, Celery, Redis и Docker. Есть опыт самостоятельной разработки сервисов от проектирования моделей данных и бизнес-логики до интеграции внешних API, тестирования и развёртывания на Linux-серверах.
 
-Также работаю с прикладными LLM/RAG-решениями: embeddings, vector search, ChromaDB, LangChain, GigaChat API.
+Также работаю с прикладными LLM/RAG-решениями: embeddings, vector search, ChromaDB, LangChain.
 
 ## Tech Stack
 
